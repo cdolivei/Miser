@@ -1,3 +1,5 @@
+[![CI](https://github.com/cdolivei/Miser/actions/workflows/ci.yml/badge.svg)](https://github.com/cdolivei/Miser/actions/workflows/ci.yml)
+
 ## Miser
 
 This is a terrible name, but it's a name.
