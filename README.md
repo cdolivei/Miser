@@ -21,4 +21,6 @@ Assert.That(items.Any(), Is.False);
 
 There are a number of similar methods to LINQ, like `.Any()` and `.Take()` but there are key differences in many of them
 
-Documentation is mostly in code in the [IForwardOnlyReader<T>](src/IForwardOnlyReader.cs) file
+Documentation is mostly in code in the [IForwardOnlyReader<T>](src/Miser.cs#L8) file.
+
+This library is not distributed as a nuget package. You must copy the source file.
